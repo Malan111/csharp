@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\GitHub\task4\SRC\bin\Debug\SRC.exe.config
+C:\Users\1\Desktop\GitHub\task4\SRC\bin\Debug\SRC.exe
+C:\Users\1\Desktop\GitHub\task4\SRC\bin\Debug\SRC.pdb
+C:\Users\1\Desktop\GitHub\task4\SRC\obj\Debug\SRC.csprojAssemblyReference.cache
+C:\Users\1\Desktop\GitHub\task4\SRC\obj\Debug\SRC.exe
+C:\Users\1\Desktop\GitHub\task4\SRC\obj\Debug\SRC.pdb
