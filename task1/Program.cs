@@ -46,7 +46,7 @@ namespace ConsoleApp1
 
                 //перцентиль
                 float perc = (0.9f * 100.0f) / (N + 1);
-                Console.WriteLine("Перценталь " + perc);
+                Console.WriteLine(perc);
 
                 //медиана
                 Console.WriteLine(arr[(N + 1) / 2]);
